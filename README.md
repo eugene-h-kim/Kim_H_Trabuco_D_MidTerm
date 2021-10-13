@@ -16,7 +16,7 @@ Of course, it depends on the dog or cat, but based on my experiences so far, the
 
 
 ## Trabuco, Dianne Karla
-![Spinach] (/images/dog_main.jpeg)
+![Spinach](/images/dog_main.jpeg)
 
 Dogs are extremely lovable. It makes me happier to be around them. I treat them not just as pets, but as members of my family. My furkids never leave me alone. They were always there for me, no matter what. They can tell if I am upset. Dogs did not abandon you, which is why they are known as man's best friend. 
 
