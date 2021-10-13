@@ -15,7 +15,6 @@ Of course, it depends on the dog or cat, but based on my experiences so far, the
   5. It's comfortable when eating
 
 
-
 ## Trabuco, Dianne
 
 
