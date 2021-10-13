@@ -15,12 +15,16 @@ Of course, it depends on the dog or cat, but based on my experiences so far, the
   5. It's comfortable when eating
 
 
-## Trabuco, Dianne
+## Trabuco, Dianne Karla
+![Spinach] (/images/dog_main.jpeg)
 
+Dogs are extremely lovable. It makes me happier to be around them. I treat them not just as pets, but as members of my family. My furkids never leave me alone. They were always there for me, no matter what. They can tell if I am upset. Dogs did not abandon you, which is why they are known as man's best friend. 
 
-
-
-
+1. Dogs are loyal companion
+2. Dogs are good family pet
+3. Dogs are affectionate and gentle
+4. Dogs are smart and intelligent
+5. Dogs are selfless
 
 
 ## Contributing
@@ -34,7 +38,7 @@ Of course, it depends on the dog or cat, but based on my experiences so far, the
 ## Credits
 
 Kim, Hyeongtae: eugene-h-kim
-Trabuco, Dianne: diannekarla
+Trabuco, Dianne Karla: diannekarla
 
 ## License
 MIT
