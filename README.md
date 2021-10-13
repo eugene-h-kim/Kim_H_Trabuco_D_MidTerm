@@ -4,7 +4,9 @@
 
 ![Cat_Ruby](/images/cat_01.jpg)
 
-When I was a kid, I had both dogs and cats at home. Then, after becoming independent and living alone, I wanted to raise a pet, so I raised a cat because there was a chance to get a cat, and I thought that it was much easier for me to raise a cat than a dog. Of course, it depends on the dog or cat, but based on my experiences so far, the five reasons why I love cats better than dogs are as follows.
+When I was a kid, I had both dogs and cats at home. Then, after becoming independent and living alone, I wanted to raise a pet, 
+so I raised a cat because there was a chance to get a cat, and I thought that it was much easier for me to raise a cat than a dog. 
+Of course, it depends on the dog or cat, but based on my experiences so far, the five reasons why I love cats better than dogs are as follows.
 
   1. Cats are cleaner
   2. Cats are quiet
