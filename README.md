@@ -1,4 +1,4 @@
-# The fierce debate for the best pet between dogs and cats
+# The Fierce Debate for the Best Pet Between Dogs and Cats
 
 ## Kim, Hyeongtae
 
